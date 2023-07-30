@@ -34,8 +34,8 @@ usePopcorn is a React project that allows users to search for movie titles and v
 
 ### Screenshot
 
-![](./screenshot1.png)
-![](./screenshot2.png)
+![](./screenshot1.PNG)
+![](./screenshot2.PNG)
 
 ### Links
 
